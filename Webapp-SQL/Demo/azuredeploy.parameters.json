@@ -7,6 +7,18 @@
     },
     "sqlAdministratorLoginPassword": {		
       "value": "GEN-PASSWORD"		
-    }		
+    },
+    "hostingPlanName": {
+      "value": null
+    },
+    "webSiteName": {
+      "value": null
+    },
+    "sqlserverName": {
+      "value": null
+    },
+    "databaseName": {
+      "value": null
+    }
   }
 }
